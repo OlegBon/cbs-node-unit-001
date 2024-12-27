@@ -14,6 +14,7 @@ const server = http.createServer(function (req, res) {
 });
 
 // Початок прослуховування порта
+// http://localhost:3000/
 server.listen(PORT, () => {
   console.log(`Server up and running on port ${PORT}`);
 });
