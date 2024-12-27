@@ -1,0 +1,24 @@
+1. Встановив nvm
+https://github.com/coreybutler/nvm-windows
+
+2. Додав версію node (22.12.0) поновіше моєї (20.17.0) та зробив нову версію за замовчуванням
+
+3. Оновив npm
+npm install -g npm
+
+
+C:\Users\oleg_>node -v
+v22.12.0
+
+C:\Users\oleg_>npm -v
+11.0.0
+
+C:\Users\oleg_>nvm -v
+1.1.12
+
+C:\Users\oleg_>nvm ls
+
+  * 22.12.0 (Currently using 64-bit executable)
+    20.17.0
+
+C:\Users\oleg_>
