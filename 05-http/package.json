@@ -1,0 +1,13 @@
+{
+  "name": "http",
+  "version": "1.0.0",
+  "description": "Using the http module, create a simple server that will accept requests and respond with the message 'Server is alive.'.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "OlegBon",
+  "license": "ISC"
+}

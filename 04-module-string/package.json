@@ -1,0 +1,16 @@
+{
+  "name": "module-string",
+  "version": "1.0.0",
+  "description": "Develop a module that will contain functions for working with text: converting a string that the functions accept to upper and lower case. Demonstrate the operation of the module.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "OlegBon",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
+}

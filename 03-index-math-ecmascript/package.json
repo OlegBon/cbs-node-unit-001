@@ -1,0 +1,13 @@
+{
+  "name": "ecmascript",
+  "version": "1.0.0",
+  "description": "In the math.js file, create a function to determine the sum of numbers, a constant PI = 3.14, and a Complex class. In the index.js file, import the math.js module, then: Call the function, Print the constant value to the console, Create an instance of the class. Use EcmaScript modules.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "OlegBon",
+  "license": "ISC"
+}
